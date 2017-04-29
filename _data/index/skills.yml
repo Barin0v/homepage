@@ -6,4 +6,10 @@
   percentage: 20
 
 - name: HTML/CSS
-  percentage: 40
+  percentage: 30
+
+- name: SoapUI
+  percentage: 70
+
+- name: Apache JMeter
+  percentage: 50
