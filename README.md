@@ -9,7 +9,3 @@
 
 ##  <a name="change-log"></a>Change Log
 Please see [wiki](https://github.com/jarrekk/Jalpc/wiki/Change-Log)
-<<<<<<< HEAD
-=======
-
->>>>>>> deb45dcd790370dcb79f42d0a2bc3d8cc88e66ca
