@@ -1,29 +1,71 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: The best company
+    i18n: company_e
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Later...
+    i18n: company_e_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Date
+    i18n: company_e_date
   job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-building-o
+    detail: QA Engineer
+    i18n: company_e_job
+  icon: fa fa-university
 
 - name:
-    detail: Company B
+    detail: Rostelecom Integration
+    i18n: company_d
+  desc:
+    detail: Later...
+    i18n: company_d_desc
+  date:
+    detail: Sep. 2016
+    i18n: company_d_date
+  job:
+    detail: QA Engineer
+    i18n: company_d_job
+  icon: fa fa-university
+
+- name:
+    detail: Pay-me
+    i18n: company_c
+  desc:
+    detail: Later...
+    i18n: company_c_desc
+  date:
+    detail: Nov. 2014
+    i18n: company_c_date
+  job:
+    detail: Lead Technical Support Engineer
+    i18n: company_c_job
+  icon: fa fa-credit-card-alt
+
+- name:
+    detail: Plastic Media
+    i18n: company_a
+  desc:
+    detail: At June 2013, I was promoted to technical support specialist. During the work, I met with the database, the SQL learned. Later, I began to study the Linux system, and analyzed the problem of the service infrastructure.
+    i18n: company_a_desc
+  date:
+    detail: Jun. 2013
+    i18n: company_a_date
+  job:
+    detail: Technical Support
+    i18n: company_a_job
+  icon: fa fa-laptop
+
+- name:
+    detail: Plastic Media
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I worked at SMXCOM in this position for three months. During this time I became acquainted with the company's products, users consulted in the sphere of services.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Aug. 2012
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Call Centre Operator
     i18n: company_b_job
   icon: fa-headphones
