@@ -1,18 +1,18 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: The best company
+    detail: Alfa Laboratory
     i18n: company_e
   desc:
     detail: Later...
     i18n: company_e_desc
   date:
-    detail: Date
+    detail: Jun. 2017
     i18n: company_e_date
   job:
     detail: QA Engineer
     i18n: company_e_job
-  icon: fa fa-university
+  icon: fa fa-building
 
 - name:
     detail: Rostelecom Integration
